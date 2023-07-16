@@ -1,0 +1,1 @@
+Alarm Clock: Created using HTML, CSS, and JavaScript, it includes a digital clock and an alarm system. The digital clock displays the current time, along with various alarm options such as hour, minutes, and AM/PM. The user can select a time and set alarms for any desired time, whether it's AM or PM.
